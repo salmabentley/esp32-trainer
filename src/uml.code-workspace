@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../coding/ib-comsci/uml"
+		},
+		{
+			"name": "esp32 start",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
